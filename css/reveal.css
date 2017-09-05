@@ -199,6 +199,10 @@ body {
   bottom: 10px;
   -webkit-user-select: none; }
 
+.button-events {
+  margin: 20;
+}
+
 .reveal .controls button {
   padding: 0;
   position: absolute;
