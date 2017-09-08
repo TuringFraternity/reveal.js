@@ -1,0 +1,12 @@
+/*Note: This only contains some custom styles we wrote. The main css is in black.css*/
+
+
+
+.reveal div .register-form {
+  display: block;
+  padding-right: 18%;
+}
+
+.reveal h1 > .home-page {
+  padding-right: 20px;
+}
